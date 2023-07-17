@@ -1,3 +1,3 @@
-output "Humber_RG" {
-  value = azurerm_resource_group.humber_rg
+output "Shivam_RG" {
+  value = azurerm_resource_group.shivam_rg
 }
